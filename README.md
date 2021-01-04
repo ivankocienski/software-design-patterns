@@ -9,3 +9,5 @@ Ruby was selected for its strong OO conventions. All code in this repository can
 
 ## Singletons
 
+[code](/src/singletons.rb) [description](/src/singletons.md)
+
