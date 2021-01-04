@@ -8,6 +8,6 @@ Ruby was selected for its strong OO conventions. All code in this repository can
 
 
 - Singletons [code](/src/singletons.rb) [description](/src/singletons.md)
-- iterators [code](/src/iterators.rb) [description](/src/iterators.md)
-- commands [code](/src/commands.rb) [description](/src/commands.md)
-
+- Iterators [code](/src/iterators.rb) [description](/src/iterators.md)
+- Commands [code](/src/commands.rb) [description](/src/commands.md)
+- Proxies  [code](/src/proxies.rb) [description](/src/proxies.md)
