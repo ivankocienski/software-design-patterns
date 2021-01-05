@@ -12,3 +12,4 @@ A [glossary](/glossary.md) of terms for reference.
 - Iterators [code](/src/iterators.rb) [description](/src/iterators.md)
 - Commands [code](/src/commands.rb) [description](/src/commands.md)
 - Proxies  [code](/src/proxies.rb) [description](/src/proxies.md)
+- Flyweight [code](/src/flyweight.rb) [description](/src/flyweight.md)
