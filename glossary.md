@@ -1,5 +1,7 @@
 # Glossary
 
+(Please note that these definitions are ruby centric)
+
 **OO** object oriented programming. Collecting data structure and code to manipulate said data in an opaque interface.
 
 **FP** functional programming. FP focuses more on functions as the core programming concept as opposed to opaque classes. Common algorithms take data as input with a callback function that can provide specialisation.
@@ -21,3 +23,7 @@
 **Design by contract, Contract programming** An approach to designing how software works by following a well defined template covering all the stages of the software algorithm. This definition can then be used as a basis for testing the algorithm and documentation describing explicitly what the algorithm needs as input and how its output will be returned. This can also describe entire classes and libraries of classes. The "contract" defines inputs and outputs and if either the caller or the callee deviate from the contract definition it is considered breaking the contract.
 
 **Domain Driven Design** An approach to software modelling where a project/component is defined by Domain Experts. This allows the developers to build a common language used to describe the problem domain. E.g. A nuclear reactor control software team must know all the terminology used in the nuclear power plant industry. This knowledge can be captured in glossaries or theory-of-operation documents. Then the software team can incorporate that language and grammar into the software artefact and when it is delivered it will be assimilated into the clients' environment with less resistance (so it will be easier to train nuclear reactor engineers who will be using the software).
+
+**Inheritance** Like genetics where children have the features of their parents, child classes can inherit from parent classes. This allows similar business logic to be shared amongst many child class types. E.g. A Vehicle parent class will be inherited by Car, Truck and Motorbike child classes. This can also form all child class types to conform to a set of features (like virtual classes in C++).
+
+**Mixins** A way of sharing common code amongst a number of differing class types. Unlike Inheritance there is no base parent class, instead a module has a set of behaviours and this module can be 'mixed into' the object. Typically inheritance is defined at compile time and mix-ins are defined at run-time. Like Inheritance the business logic is shared but unlike inheritance the mix-in module cannot constrain the Object to have a set of features.

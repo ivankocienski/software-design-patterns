@@ -13,3 +13,4 @@ A [glossary](/glossary.md) of terms for reference.
 - Commands [code](/src/commands.rb) [description](/src/commands.md)
 - Proxies  [code](/src/proxies.rb) [description](/src/proxies.md)
 - Flyweight [code](/src/flyweight.rb) [description](/src/flyweight.md)
+- State [code](/src/state.rb) [description](/src/state.md)
