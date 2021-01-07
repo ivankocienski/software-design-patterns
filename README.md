@@ -14,3 +14,5 @@ A [glossary](/glossary.md) of terms for reference.
 - Proxies  [code](/src/proxies.rb) [description](/src/proxies.md)
 - Flyweight [code](/src/flyweight.rb) [description](/src/flyweight.md)
 - State [code](/src/state.rb) [description](/src/state.md)
+- Factory [code](/src/factory.rb) [description](/src/factory.md)
+
