@@ -27,3 +27,5 @@
 **Inheritance** Like genetics where children have the features of their parents, child classes can inherit from parent classes. This allows similar business logic to be shared amongst many child class types. E.g. A Vehicle parent class will be inherited by Car, Truck and Motorbike child classes. This can also form all child class types to conform to a set of features (like virtual classes in C++).
 
 **Mixins** A way of sharing common code amongst a number of differing class types. Unlike Inheritance there is no base parent class, instead a module has a set of behaviours and this module can be 'mixed into' the object. Typically inheritance is defined at compile time and mix-ins are defined at run-time. Like Inheritance the business logic is shared but unlike inheritance the mix-in module cannot constrain the Object to have a set of features.
+
+**APSTaNDPu** A mnemonic to remember the 7 OSI layers of network abstractions; Application Presentation Session Transport Network Datalink Physical.

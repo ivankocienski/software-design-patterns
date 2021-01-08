@@ -15,4 +15,5 @@ A [glossary](/glossary.md) of terms for reference.
 - Flyweight [code](/src/flyweight.rb) [description](/src/flyweight.md)
 - State [code](/src/state.rb) [description](/src/state.md)
 - Factory [code](/src/factory.rb) [description](/src/factory.md)
+- Decorator [code](/src/decorator.rb) [description](/src/decorator.md)
 
