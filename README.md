@@ -17,4 +17,5 @@ A [glossary](/glossary.md) of terms for reference.
 - Factory [code](/src/factory.rb) [description](/src/factory.md)
 - Decorator [code](/src/decorator.rb) [description](/src/decorator.md)
 - Strategy [code](/src/strategy.rb) [description](/src/strategy.md)
+- Observer [code](/src/observer.rb) [description](/src/observer.md)
 
