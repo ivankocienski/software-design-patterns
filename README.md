@@ -16,4 +16,5 @@ A [glossary](/glossary.md) of terms for reference.
 - State [code](/src/state.rb) [description](/src/state.md)
 - Factory [code](/src/factory.rb) [description](/src/factory.md)
 - Decorator [code](/src/decorator.rb) [description](/src/decorator.md)
+- Strategy [code](/src/strategy.rb) [description](/src/strategy.md)
 
