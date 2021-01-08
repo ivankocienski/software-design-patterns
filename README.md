@@ -18,4 +18,6 @@ A [glossary](/glossary.md) of terms for reference.
 - Decorator [code](/src/decorator.rb) [description](/src/decorator.md)
 - Strategy [code](/src/strategy.rb) [description](/src/strategy.md)
 - Observer [code](/src/observer.rb) [description](/src/observer.md)
+- Adapter [code](/src/adapter.rb) [description](/src/adapter.md)
+
 
