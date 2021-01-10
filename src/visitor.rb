@@ -1,7 +1,5 @@
 # Visitor
 
-require 'json'
-
 class StockHistory
   def data
     { 
@@ -23,8 +21,9 @@ end
 
 class AlphaModel < Model
   def process
-    min = @data_source.data[:payload].min
-    max = @data_source.data[:payload].max
+    payload = @data_source.data[:payload]
+    min = payload.min
+    max = payload.max
     puts "alpha: min=#{min}, max=#{max}"
   end
 end
