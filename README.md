@@ -21,5 +21,7 @@ A [glossary](/glossary.md) of terms for reference.
 - Adapter [code](/src/adapter.rb) [description](/src/adapter.md)
 - Prototype [code](/src/prototype.rb) [description](/src/prototype.md)
 - Visitor [code](/src/visitor.rb) [description](/src/visitor.md)
+- Facade [code](/src/facade.rb) [description](/src/facade.md)
+
 
 
