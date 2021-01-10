@@ -19,5 +19,6 @@ A [glossary](/glossary.md) of terms for reference.
 - Strategy [code](/src/strategy.rb) [description](/src/strategy.md)
 - Observer [code](/src/observer.rb) [description](/src/observer.md)
 - Adapter [code](/src/adapter.rb) [description](/src/adapter.md)
+- Prototype [code](/src/prototype.rb) [description](/src/prototype.md)
 
 
