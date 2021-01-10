@@ -20,6 +20,6 @@ A [glossary](/glossary.md) of terms for reference.
 - Observer [code](/src/observer.rb) [description](/src/observer.md)
 - Adapter [code](/src/adapter.rb) [description](/src/adapter.md)
 - Prototype [code](/src/prototype.rb) [description](/src/prototype.md)
-- Visitor [code](/src/visistor.rb) [description](/src/visistor.md)
+- Visitor [code](/src/visitor.rb) [description](/src/visitor.md)
 
 
