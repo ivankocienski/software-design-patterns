@@ -22,6 +22,7 @@ A [glossary](/glossary.md) of terms for reference.
 - Prototype [code](/src/prototype.rb) [description](/src/prototype.md)
 - Visitor [code](/src/visitor.rb) [description](/src/visitor.md)
 - Facade [code](/src/facade.rb) [description](/src/facade.md)
+- Delegate [code](/src/delegate.rb) [description](/src/delegate.md)
 
 
 
