@@ -24,6 +24,7 @@ A [glossary](/glossary.md) of terms for reference.
 - Facade [code](/src/facade.rb) [description](/src/facade.md)
 - Delegate [code](/src/delegate.rb) [description](/src/delegate.md)
 - Memento [code](/src/memento.rb) [description](/src/memento.md)
+- Composite [code](/src/composite.rb) [description](/src/composite.md)
 
 
 
