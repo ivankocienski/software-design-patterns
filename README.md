@@ -23,6 +23,7 @@ A [glossary](/glossary.md) of terms for reference.
 - Visitor [code](/src/visitor.rb) [description](/src/visitor.md)
 - Facade [code](/src/facade.rb) [description](/src/facade.md)
 - Delegate [code](/src/delegate.rb) [description](/src/delegate.md)
+- Memento [code](/src/memento.rb) [description](/src/memento.md)
 
 
 
